@@ -1,8 +1,8 @@
 # Markdown Previewer Project 
 ![preview of the project](./images/image.png)
-<div style="text-align: center">
+
 **Project done as part of the Front End Development Libraries Certification on freeCodeCamp by Elise Flaneuse.
-</div>
+
 
 ### Done using:
 <div style="display: inline_block"><br>
