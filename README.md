@@ -1,7 +1,7 @@
 # Markdown Previewer Project 
 ![preview of the project](./images/image.png)
 
-**Project done as part of the Front End Development Libraries Certification on freeCodeCamp by Elise Flaneuse.
+**Project done as part of the Front End Development Libraries Certification on freeCodeCamp by Elise Flaneuse.**
 
 
 ### Done using:
